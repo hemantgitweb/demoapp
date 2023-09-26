@@ -1,0 +1,9 @@
+.navbar_ul li{
+  background-color: green;
+  color: #FFF;
+  float: left;
+  text-decoration: none;
+  padding: 10px;
+  margin-right: 10px;
+  list-style-type: none;
+}
